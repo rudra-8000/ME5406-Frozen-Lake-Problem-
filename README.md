@@ -56,18 +56,19 @@ source venv/bin/activate
 Run:
 
 ```bash
-pip install gymnasium matplotlib numpy torch pillow ipython
+pip install matplotlib numpy torch pillow ipython pyyaml ipykernel
 ```
 
 Or create a `requirements.txt` file:
 
 ```
-gymnasium
 matplotlib
 numpy
 torch
 pillow
 ipython
+pyyaml
+ipykernel
 ```
 
 Then install:
@@ -81,21 +82,18 @@ pip install -r requirements.txt
 # How to Run the Code
 
 ## Option 1: Run with Jupyter Notebook (Recommended)
-
-Start Jupyter:
-
+1. (Optional: Install kernel for a new python environment) Run the following to install the kernel to `.local/share/jupyter/kernels/`
 ```bash
-jupyter notebook
+python -m ipykernel install --user --name <NAME>
 ```
+2. Run  
+```bash
+jupyter lab part_1_project_ME5406_FINAL.ipynb
+```
+3. If a new kernel was insatalled, choose it when running jupyter.
 
-Open:
-
-```
-part_1_project_ME5406_FINAL.ipynb
-```
 
 Then:
-
 1. Click **"Run All"**
 2. Or run cells sequentially from top to bottom
 ---
@@ -105,6 +103,5 @@ Then:
 
 If needed, install from official PyTorch website:
 [https://pytorch.org/get-started/locally/](https://pytorch.org/get-started/locally/)
-
 
 ---
