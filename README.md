@@ -15,10 +15,6 @@ This project implements reinforcement learning algorithms (including SARSA and d
 * Matplotlib
 * Jupyter Notebook
 
-The environment used includes:
-
-* `FrozenLake-v1` from Gymnasium
-
 ---
 
 # 🛠 Installation Instructions
