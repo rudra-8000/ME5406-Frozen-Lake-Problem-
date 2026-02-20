@@ -2,11 +2,11 @@
 
 # ME5406 Project – Part 1
 
-Reinforcement Learning with SARSA and Deep RL
+Reinforcement Learning with Q-Learning, SARSA, First Visit Monte Carlo and DQN
 
 ## 📌 Overview
 
-This project implements reinforcement learning algorithms (including SARSA and deep learning–based approaches) using:
+This project implements reinforcement learning algorithms using:
 
 * Python
 * PyTorch
