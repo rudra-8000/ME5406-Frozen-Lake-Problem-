@@ -1,5 +1,3 @@
-Here is a clean **README.md** you can copy directly into your project.
-
 ---
 
 # ME5406 Project – Part 1
