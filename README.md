@@ -4,7 +4,7 @@
 
 Reinforcement Learning with Q-Learning, SARSA, First Visit Monte Carlo and DQN
 
-## 📌 Overview
+## Overview
 
 This project implements reinforcement learning algorithms using:
 
@@ -17,9 +17,9 @@ This project implements reinforcement learning algorithms using:
 
 ---
 
-# 🛠 Installation Instructions
+# Installation Instructions
 
-## 1️⃣ Clone or Download the Project
+## I. Clone or Download the Project
 
 Make sure the notebook file is in your working directory:
 
@@ -29,7 +29,7 @@ part_1_project_ME5406_FINAL.ipynb
 
 ---
 
-## 2️⃣ Create a Virtual Environment (Recommended)
+## II. Create a Virtual Environment (Recommended)
 
 ```bash
 python -m venv venv
@@ -51,7 +51,7 @@ source venv/bin/activate
 
 ---
 
-## 3️⃣ Install Required Packages
+## III. Install Required Packages
 
 Run:
 
